@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Bienvenida
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+¡Hola! Soy Marco Álvarez, alumno del grado superior de **Desarrollo de Aplicaciones Web** en el IES Los Albares.
+En este sitio encontrarás información variada sobre mí, así como información sobre mis proyectos y mis contactos.
 
-## Commands
+## ¿Qué podrás encontrar aquí?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. Un resumen de quién soy.
+2. Una lista de las tecnologías que estoy practicando.
+3. Algunos de mis proyectos en desarrollo.
+Puedes navegar para ver las demás secciones haciendo uso del menú superior.
