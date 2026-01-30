@@ -8,4 +8,5 @@ En este sitio encontrarás información variada sobre mí, así como informació
 1. Un resumen de quién soy.
 2. Una lista de las tecnologías que estoy practicando.
 3. Algunos de mis proyectos en desarrollo.
+
 Puedes navegar para ver las demás secciones haciendo uso del menú superior.
